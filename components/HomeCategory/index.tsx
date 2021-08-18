@@ -27,6 +27,7 @@ const HomeCategory = (props: HomeCategoryProps) => {
           />
         )}
         horizontal={true}
+        showsHorizontalScrollIndicator={false}
       />
     </>
   );
